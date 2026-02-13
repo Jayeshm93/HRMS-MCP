@@ -1,0 +1,93 @@
+# =========================
+# Python Generated Files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+wheels/
+*.egg-info/
+.eggs/
+
+# =========================
+# Virtual Environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+uv.lock
+.env
+.env.*
+*.env
+
+# =========================
+# Secrets & Keys
+# =========================
+secrets.json
+*.key
+*.pem
+*.crt
+*.p12
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+*.out
+*.err
+
+# =========================
+# Database Files
+# =========================
+*.sqlite3
+*.db
+*.sqlite
+
+# =========================
+# MCP / Agent Runtime Data
+# =========================
+sessions/
+memory/
+vector_store/
+embeddings/
+chroma/
+faiss_index/
+*.faiss
+.cache/
+
+# =========================
+# AI / Model Files (if any)
+# =========================
+models/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.bin
+*.ckpt
+*.h5
+*.pkl
+*.safetensors
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDE Files
+# =========================
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
